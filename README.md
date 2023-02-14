@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-AlX Tasks about bash script
+shell, init files, variables and expansions
